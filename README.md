@@ -69,3 +69,12 @@ Design documents can be found in the [docs](docs) folder, including:
 ## Others
 
 **License:** This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
+
+
+## Code Review Jishva: 
+
+1. I am thoroughly impressed by the meticulous organization of the folders for the frontend, backend, and infrastructure components. This structure seamlessly adheres to the stylistic guidelines recommended by our professor during the course lectures.
+2. I completed the quiz and observed that it consistently generates accurate and relevant results.
+3. As for my Project-2, I have yet to implement the authentication aspect. Therefore, I really got to learn from your code to enhance my understanding in this area.
+
+In summary, your work is truly great.
